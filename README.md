@@ -90,7 +90,8 @@ The interactive dashboard includes:
 
 4
 
-![Dashboard]("C:\Users\samsung\Documents\HR_Employee_Attrition_Analytics\images\Screenshot 2026-07-17 135033.png")
+![Dashboard]("<img width="1162" height="658" alt="executive_dashboard png" src="https://github.com/user-attachments/assets/32a550c7-eb8a-42f9-bb05-8a60dc3b21d6" />
+")
 
 ---
 
