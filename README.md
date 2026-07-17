@@ -88,9 +88,9 @@ The interactive dashboard includes:
 
 ### Dashboard Preview
 
-> *(Insert your dashboard screenshot below)*
+4
 
-![Dashboard](images/executive_dashboard.png)
+![Dashboard]("C:\Users\samsung\Documents\HR_Employee_Attrition_Analytics\images\Screenshot 2026-07-17 135033.png")
 
 ---
 
